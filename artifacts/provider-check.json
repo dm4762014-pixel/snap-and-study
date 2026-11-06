@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "model": "gemini-3.5-flash",
+  "seconds": 4.14,
+  "answer": "Rewrite $\\frac{2}{3}$ so that it has a denominator of $6$ before adding."
+}

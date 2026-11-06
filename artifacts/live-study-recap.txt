@@ -1,0 +1,16 @@
+Revision Recap: Adding Fractions with Unlike Denominators
+
+Topics Covered:
+Adding fractions with different denominators and converting fractions to equivalent forms.
+
+Misunderstandings Corrected:
+Adding both top and bottom numbers directly (for example, 2/3 + 1/6 = 3/9 or 1/4 + 1/2 = 2/6) is incorrect. The denominator defines the size of each fractional part, so adding denominators changes the size rather than counting the pieces.
+
+Key Explanations and Formulas:
+To add fractions, you must first find a common denominator so the pieces are equal in size. Once the denominators match, add only the numerators and keep the common denominator constant: a/c + b/c = (a + b)/c.
+
+Distinction Between Hints and Solved Answers:
+A hint prompts you to find equivalent fractions with matching bottom numbers without giving the final sum. Fully solved answers show the step-by-step conversion and addition, such as changing 2/3 + 1/6 into 4/6 + 1/6 = 5/6, or changing 1/4 + 1/2 into 1/4 + 2/4 = 3/4.
+
+Next Practice Task:
+Try solving 1/5 + 3/10 by converting 1/5 to an equivalent fraction with a denominator of 10 first.
